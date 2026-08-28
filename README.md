@@ -51,7 +51,7 @@ Trajetória marcada pela polivalência operacional, tomada de decisão rápida e
 Vamos trocar experiências ou discutir oportunidades em Operações de TI e Gestão de Incidentes:
 
 * 👔 **LinkedIn:** https://linkedin.com
-* 📧 **E-mail:** [Insira seu e-mail profissional aqui]
+* 📧 **E-mail:** [tbaessa@yahoo.com]
 
 ---
 *Repositório acadêmico desenvolvido como parte do projeto estrutural na plataforma DreamShaper.*
