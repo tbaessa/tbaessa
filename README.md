@@ -50,7 +50,7 @@ Trajetória marcada pela polivalência operacional, tomada de decisão rápida e
 ## 🌐 Conecte-se Comigo
 Vamos trocar experiências ou discutir oportunidades em Operações de TI e Gestão de Incidentes:
 
-* 👔 **LinkedIn:** https://linkedin.com
+* 👔 **LinkedIn:** https://linkedin.com/in/hamiltonbaessarh
 * 📧 **E-mail:** [tbaessa@yahoo.com]
 
 ---
