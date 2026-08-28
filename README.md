@@ -6,6 +6,7 @@
   <img src="https://shields.io" alt="ITSM & Observability">
 </p>
 
+
 ## 💻 Sobre Mim
 Engenheiro de Computação com sólida bagagem internacional (Portugal e Angola) em Administração de Sistemas, Suporte e Gestão de Clientes. Atualmente em transição focada para a **Gestão de Incidentes de TI (Frontline)**, unindo experiência técnica de infraestrutura com forte habilidade de comunicação em momentos de crise.
 
